@@ -55,5 +55,5 @@ function calculateTime(time) {
 
 function stopTime(){
     clearInterval(countdown);
-    output.innerHTML = 'Countdown Stopped';   
+    output.innerHTML = 'Countdown Stopped.';   
 }
